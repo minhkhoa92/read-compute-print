@@ -5,3 +5,4 @@
 *.feature mode=644
 *.json mode=644
 .gitignore mode=644
+.gitattributes mode=644
