@@ -1,0 +1,7 @@
+*.sh mode=755
+*.py mode=644
+*.md mode=644
+*.txt mode=644
+*.feature mode=644
+*.json mode=644
+.gitignore mode=644
