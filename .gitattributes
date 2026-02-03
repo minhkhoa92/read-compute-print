@@ -1,5 +1,5 @@
-*.sh mode=755
-*.py mode=644
+*.sh mode=755 eol=lf
+*.py mode=644 eol=lf
 *.md mode=644
 *.txt mode=644
 *.feature mode=644
